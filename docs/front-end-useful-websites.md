@@ -83,3 +83,17 @@ Can I Use is a comprehensive resource that provides up-to-date browser compatibi
 Smashing Magazine is a trusted resource for web designers and developers, offering valuable insights, tutorials, and best practices:
 
 - **Articles and Tutorials**: Access a wealth of articles
+
+, tutorials, and guides covering web design, front-end development, and user experience (UX) design.
+
+- **Responsive Web Design**: Smashing Magazine played a pivotal role in popularizing responsive web design, making it a go-to source for responsive design knowledge.
+
+**10. [A List Apart](https://alistapart.com/)**
+
+A List Apart is an online publication that explores the design, development, and meaning of web content:
+
+- **Web Design and Development Articles**: A List Apart publishes articles from industry experts on a wide range of topics, including CSS, HTML, accessibility, and responsive design.
+
+- **Web Standards Advocacy**: The publication has a history of advocating for web standards and best practices, making it a reputable source for front-end developers.
+
+These official and credible websites serve as valuable resources for front-end developers, offering documentation, standards, tutorials, and insights to help them excel in their craft and stay informed about the latest trends and best practices in web development. Happy coding!
