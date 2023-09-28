@@ -13,3 +13,13 @@ Here are some of the topics we'll be discussing on Deep Codes:
 * We're going to outline the journey from beginner to senior front-end engineer.
 * And more!
 * Updates coming soon!
+
+---
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+---
